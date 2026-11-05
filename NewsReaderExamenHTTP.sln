@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsReaderExamenHTTP", "NewsReaderExamenHTTP.csproj", "{CEBCE198-1540-455F-96A9-DE5475F3AC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBCE198-1540-455F-96A9-DE5475F3AC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBCE198-1540-455F-96A9-DE5475F3AC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBCE198-1540-455F-96A9-DE5475F3AC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBCE198-1540-455F-96A9-DE5475F3AC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BD642B-031F-4CE1-B7B5-834E586D7B16}
+	EndGlobalSection
+EndGlobal
